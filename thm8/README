@@ -1,0 +1,5 @@
+This is the code used in the proof of Theorem 8: There is a planar 2-tree $G$, with $|V|=99$ and $|E|=195$ such that $220/195  = \wbt_3(G) < \wbt_2(G)=221/195$.
+
+To build it you need to first install https://github.com/linear-layouts/SAT.
+
+Then to run the experiments you have to add the corresponding codes the server file and use the command python3 experiment_*.py
