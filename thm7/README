@@ -1,0 +1,6 @@
+To build this you need a C++ compiler such as GCC, cmake V3.1+ (https://cmake.org/), and OGDF.
+This has been tested with the latest OGDF release, which can be obtained at 
+https://www.ogdf.uni-osnabrueck.de/2025/10/27/foxglove/.
+
+* Edit CMakeLists.txt and replace "/opt/local/OGDF" in Line 2 by your OGDF directory.
+* Run "cmake . ; make ; ./run_plagen".
