@@ -1,4 +1,7 @@
-To build this you need a C++ compiler such as GCC, cmake V3.1+ (https://cmake.org/), and OGDF.
+This is the code used in the proof of Theorem 7: For every planar graph G on n ≤ 9 vertices 
+we have wbt(G) = wbt2(G), that is, there exists a 2-page book embedding that realizes wbt(G).
+
+To build it you need a C++ compiler such as GCC, cmake V3.1+ (https://cmake.org/), and OGDF.
 This has been tested with the latest OGDF release, which can be obtained at 
 https://www.ogdf.uni-osnabrueck.de/2025/10/27/foxglove/.
 
